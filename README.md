@@ -1,3 +1,5 @@
+This repository will no longer be edited.
+
 # ACM Research Coding Challenge (Fall 2020)
 
 ## No Collaboration Policy
